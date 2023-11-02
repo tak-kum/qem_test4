@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rmw>
+	<version>3.1.1</version>
+	<link>https://www.renesas.com/us/en/document/swo/motor-control-development-support-tool-renesas-motor-workbench-311?language=ja/Renesas_Motor_Workbench_V311.zip</link>
+	<tuningFile>
+		<tuning>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/RmwTuning/RA6T2_MCILV1_SPM_IS_FOC_TUNER_V100.zip?token=GHSAT0AAAAAACIUH3VO6FPH5HKTQ5RARKK6ZKDBORA</tuning>
+		<system>Induction</system>
+		<device>RA6T2</device>
+	</tuningFile>
+</rmw>
