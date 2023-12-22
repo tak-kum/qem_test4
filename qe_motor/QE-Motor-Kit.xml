@@ -202,7 +202,7 @@
 		<KitName en="RL78/G24 Motor Control Evaluation Kit" jp="RL78/G24 Motor Control Evaluation Kit" />
 		<DeviceName>RL78/G24</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/BoardPictures/MCEK-RL78G24.png</KitImageUrl>
-		<KitDescription 
+		m<KitDescription 
 			en="The RL78/G24 Motor Control Evaluation Kit is a development kit that enables easy evaluation of motor control using permanent magnet synchronous motors (brushless DC motors).
                 With this product and the sample code that can be downloaded from the website, you can start evaluating motor control using the RL78/G24 right away." 
 			jp="RL78/G24 Motor Control Evaluation Kitは、RL78/G24マイコンを搭載し、モータ制御を簡単に評価できる永久磁石同期モータ (ブラシレス DC モータ)制御評価キットです。
@@ -227,11 +227,11 @@
 		<HardwareInfo en="https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/BoardHardwareInfo/en/MCK-RX26T-HardwareInfo.html" jp="https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/BoardHardwareInfo/jp/MCK-RX26T-HardwareInfo.html" />
 		<Project>
 			<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
-			<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6857xx0110-rx-encoderFOC.xml</ProjectUrl>
+			<ProjectUrl>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/SampleProjects/r01an6857xx0100-rx-encoderFOC.xml</ProjectUrl>
 		</Project>
 		<Project>
 			<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_LESS_FOC_E2S_V110</ProjectFolderName>
-			<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6858xx0110-rx-sensorlessFOC.xml</ProjectUrl>
+			<ProjectUrl>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/SampleProjects/r01an6858xx0110-rx-sensorlessFOC.xml</ProjectUrl>
 		</Project>
 	</Kit>
 </Kits>
