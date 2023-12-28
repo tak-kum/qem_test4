@@ -59,7 +59,7 @@ h2 {
 h3 {
 	font-style: normal;
 	font-size: 120%;
-	color: black;
+	color: var(--body-color);
 
 	padding: 0.5ex;
 	border-style: solid;
