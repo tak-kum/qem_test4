@@ -10,6 +10,6 @@ function turnDark() {
 }
 
 function turnLight() {
-   $(".active").addClass("light");
+   $("body").addClass("light");
 }
 
