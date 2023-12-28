@@ -6,9 +6,9 @@ function reloadStylesheets() {
 }
 
 function turnDark() {
-    $('body').addClass('dark')"
+    $('body').addClass('dark')";
 }
 
 function turnLight() {
-   $('body').addClass('light')"
+   $('body').addClass('light')";
 }
