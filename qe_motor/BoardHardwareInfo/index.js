@@ -6,10 +6,12 @@ function reloadStylesheets() {
 }
 
 function turnDark() {
+   $("body").removeClass("light");
    $("body").addClass("dark");
 }
 
 function turnLight() {
+   $("body").removeClass("dark");
    $("body").addClass("light");
 }
 
