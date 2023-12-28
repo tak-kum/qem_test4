@@ -1,11 +1,9 @@
 body.light {
-	--body-background-color: #d6f2ff;
-	--body-color: black;
+	--body-background-color: #fff;
 }
 
 body.dark {
-	--body-background-color: #fff;
-	--body-color: white;
+	--body-background-color: #d6f2ff;
 }
 
 body {
