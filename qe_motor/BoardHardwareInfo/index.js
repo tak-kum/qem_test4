@@ -4,3 +4,12 @@ function reloadStylesheets() {
         this.href = this.href;
     });
 }
+
+function turnDark() {
+   $(".active").removeClass("active");
+}
+
+function turnLight() {
+   $(".active").removeClass("active");
+}
+
