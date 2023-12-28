@@ -4,12 +4,7 @@ function reloadStylesheets() {
         this.href = this.href;
     });
 }
-
 function turnDark() {
     $('body').addClass('dark')";
-}
-
-function turnLight() {
-    $('body').addClass('light')";
 }
 
