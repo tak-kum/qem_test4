@@ -10,5 +10,6 @@ function turnDark() {
 }
 
 function turnLight() {
-   $('body').addClass('light')";
+    $('body').addClass('light')";
 }
+
