@@ -17,7 +17,7 @@ body {
 }
 
 .header-space {
-	background-color: var(--body-background-color);
+	background-color: white !important;
 }
 
 a {
@@ -140,10 +140,6 @@ table.hwsetup {
 	border-collapse: separate;
 	border-color: white;
 	padding: 5px 0;
-}
-
-table.hwsetup tr {
-	background-color: #e7e7e7;
 }
 
 table.hwsetup th {
