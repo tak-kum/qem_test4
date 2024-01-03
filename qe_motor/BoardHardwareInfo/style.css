@@ -10,14 +10,13 @@ body.dark {
 
 body {
 	background-color: var(--body-background-color);
-	font-family: "Arial","メイリオ";
+	font-family: "Arial", "メイリオ";
 	font-style: normal;
 	font-size: 10pt;
-	color:  var(--body-color);
+	color: var(--body-color);
 }
 
-.header-space
-{
+.header-space {
 	background-color: var(--body-background-color);
 }
 
@@ -43,7 +42,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-p{
+p {
 	margin-top: 1px;
 	margin-bottom: 1px;
 }
@@ -137,42 +136,42 @@ ul {
 	width: fit-content;
 }
 
-table.hwsetup{
-	border-collapse:separate;
+table.hwsetup {
+	border-collapse: separate;
 	border-color: white;
 	padding: 5px 0;
 }
 
-table.hwsetup tr{
+table.hwsetup tr {
 	background-color: #e7e7e7;
 }
 
-table.hwsetup th{
+table.hwsetup th {
 	text-align: center;
-	color:white;
+	color: white;
 	padding: 4px 10px 4px 10px;
 }
 
-table.hwsetup td{
+table.hwsetup td {
 	text-align: center;
 	background-color: #e7e7e7;
-	color:black;
+	color: black;
 	padding: 4px 10px 4px 10px;
 }
 
 td.hwsetup {
 	background-color: #4bc7bb;
 	color: #FFF;
-	font-weight:bold;
+	font-weight: bold;
 	padding: 4px 10px 4px 10px;
 }
-	
+
 table.hwsetup tr.setuphead {
-	background-color:  #5b5966;
+	background-color: #5b5966;
 	text-align: center;
 	color: #FFF;
 	font-style: bold;
-	font-weight:bold;
+	font-weight: bold;
 	padding: 4px 10px 4px 10px;
 }
 
@@ -181,6 +180,6 @@ table.hwsetup td.setuphead {
 	text-align: center;
 	color: #FFF;
 	font-style: bold;
-	font-weight:bold;
+	font-weight: bold;
 	padding: 4px 10px 4px 10px;
 }
