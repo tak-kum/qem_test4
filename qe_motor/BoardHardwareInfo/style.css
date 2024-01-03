@@ -16,6 +16,11 @@ body {
 	color:  var(--body-color);
 }
 
+.header-space
+{
+	background-color: var(--body-background-color);
+}
+
 a {
 	font-style: normal;
 	text-decoration: none;
