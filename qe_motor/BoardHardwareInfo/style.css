@@ -17,7 +17,7 @@ body {
 }
 
 .header-space {
-	background-color: white;
+	background-color: var(--body-background-color);
 }
 
 a {
