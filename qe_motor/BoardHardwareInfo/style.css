@@ -162,6 +162,10 @@ td.hwsetup {
 	padding: 4px 10px 4px 10px;
 }
 
+table.hwsetup tr{
+	background-color: #e7e7e7;
+}
+
 table.hwsetup tr.setuphead {
 	background-color: #5b5966;
 	text-align: center;
