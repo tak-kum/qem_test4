@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <guide>
-       <version>1.1</version>
+       <version>1.0</version>
        <downloadLink>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/GuideInfo/guide-info-v1.0.zip</downloadLink>
        <video name="prepare-project" link=""/>
        <video name="introduce-related-tool" link=""/>
