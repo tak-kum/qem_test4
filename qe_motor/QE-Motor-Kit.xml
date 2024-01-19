@@ -202,7 +202,7 @@
 		<KitName en="RL78/G24 Motor Control Evaluation Kit" jp="RL78/G24 Motor Control Evaluation Kit" />
 		<DeviceName>RL78/G24</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/BoardPictures/MCEK-RL78G24.png</KitImageUrl>
-		m<KitDescription 
+		<KitDescription 
 			en="The RL78/G24 Motor Control Evaluation Kit is a development kit that enables easy evaluation of motor control using permanent magnet synchronous motors (brushless DC motors).
                 With this product and the sample code that can be downloaded from the website, you can start evaluating motor control using the RL78/G24 right away." 
 			jp="RL78/G24 Motor Control Evaluation Kitは、RL78/G24マイコンを搭載し、モータ制御を簡単に評価できる永久磁石同期モータ (ブラシレス DC モータ)制御評価キットです。
