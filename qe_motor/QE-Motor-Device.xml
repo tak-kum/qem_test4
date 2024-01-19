@@ -78,7 +78,7 @@
 			<DeviceSeriesName>RX200</DeviceSeriesName>
 			<Device>
 				<DeviceName>RX26T</DeviceName>
-				<ProjectUrl>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/SampleProjects/r01an6857xx0100-rx-encoderFOC.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/SampleProjects/r01an6857xx0110-rx-encoderFOC.xml</ProjectUrl>
 				<ProjectUrl>https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/SampleProjects/r01an6858xx0110-rx-sensorlessFOC.xml</ProjectUrl>
 			</Device>
 		</DeviceSeries>
