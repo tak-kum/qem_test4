@@ -2,7 +2,7 @@
 <ZipFile>
 	<Category en="Sensorless feedback" jp="センサーレスフィードバック" />
 	<Category en="Vector control" jp="ベクトル制御" />
-	<ZipDownloadUrl>/document/scd/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rx26t-rev100/r01an6858xx0100-rx-sensorlessFOC.zip</ZipDownloadUrl>
+	<ZipDownloadUrl>/document/scd/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rev110/r01an6858xx0110-rx-sensorlessFOC.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RX26T</DeviceName>
 		<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_LESS_FOC_E2S_V110</ProjectFolderName>
@@ -27,6 +27,11 @@ This project is the sample program that uses Renesas RX26T microcontroller to dr
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
  -Sensor : Not used&#10;
 &#10;
+[Supported QE function(s)]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
+&#10;
 [Document Number]&#10;
  R01AN6858EJ0110
 "
@@ -45,6 +50,11 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
  -永久磁石同期モータ : R42BLD30L3&#10;
  -センサ : なし&#10;
 &#10;
+[サポートするQE機能]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
+ &#10;
 [ドキュメント番号]&#10;
  R01AN6858JJ0110
 "
@@ -54,10 +64,10 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 		<DeviceName>RX26T</DeviceName>
 		<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_LESS_FOC_TUNER_E2S_V110</ProjectFolderName>
 		<ProjectName
-		en="Sensorless Vector Control of a Permanent Magnet Synchronous Motor - For MCK (Tuning program generation)"
-		jp="永久磁石同期モータのセンサレスベクトル制御 - MCK用 (チューニングプログラム作成)"
+		en="Sensorless Vector Control of a Permanent Magnet Synchronous Motor - For MCK (for tuning program generation)"
+		jp="永久磁石同期モータのセンサレスベクトル制御 - MCK用 (チューニングプログラム作成用)"
 		/>
-		<ProjectName>RX26T sensorless vector control for permanent magnet synchronous motor tuner project</ProjectName>
+		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rev110</ApplicationNoteUrl>
 		<Description
 		en="
 [Description]&#10;
@@ -75,6 +85,9 @@ This project supports tuning program generation. &#10;
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
  -Sensor : Not used&#10;
+&#10;
+[Supported QE function(s)]&#10;
+ -&#10;
 &#10;
 [Document Number]&#10;
  R01AN6858EJ0110
@@ -96,6 +109,9 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
  -永久磁石同期モータ : R42BLD30L3&#10;
  -センサ : なし&#10;
 &#10;
+[サポートするQE機能]&#10;
+ -&#10;
+ &#10;
 [ドキュメント番号]&#10;
  R01AN6858JJ0110
 "
@@ -108,6 +124,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 		en="Sensorless Vector Control of a Permanent Magnet Synchronous Motor - For MCK (1-shunt)"
 		jp="永久磁石同期モータのセンサレスベクトル制御 - MCK用 (1シャント)"
 		/>
+		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rev110</ApplicationNoteUrl>
 		<Description
 		en="
 [Description]&#10;
@@ -123,6 +140,11 @@ This project is the sample program that uses Renesas RX26T microcontroller to dr
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
  -Sensor : Not used&#10;
+&#10;
+[Supported QE function(s)]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
 &#10;
 [Document Number]&#10;
  R01AN6858EJ0110
@@ -142,6 +164,11 @@ RX26T RAM64KBバージョン対応&#10;
  -永久磁石同期モータ : R42BLD30L3&#10;
  -センサ : なし&#10;
 &#10;
+[サポートするQE機能]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
+ &#10;
 [ドキュメント番号]&#10;
  R01AN6858JJ0110
 "
@@ -154,7 +181,7 @@ RX26T RAM64KBバージョン対応&#10;
 		en="Sensorless Vector Control of a Permanent Magnet Synchronous Motor - For MCK"
 		jp="永久磁石同期モータのセンサレスベクトル制御 - MCK用"
 		/>
-		<ProjectName>RX26T sensorless vector control for permanent magnet synchronous motor tuner project</ProjectName>
+		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rev110</ApplicationNoteUrl>
 		<Description
 		en="
 [Description]&#10;
@@ -170,6 +197,11 @@ This project is the sample program that uses Renesas RX26T microcontroller to dr
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
  -Sensor : Not used&#10;
+&#10;
+[Supported QE function(s)]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
 &#10;
 [Document Number]&#10;
  R01AN6858EJ0110
@@ -189,6 +221,11 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
  -永久磁石同期モータ : R42BLD30L3&#10;
  -センサ : なし&#10;
 &#10;
+[サポートするQE機能]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
+ &#10;
 [ドキュメント番号]&#10;
  R01AN6858JJ0110
 "
@@ -198,10 +235,10 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 		<DeviceName>RX26T</DeviceName>
 		<ProjectFolderName>RX26T_MCBC_MCILV1_SPM_LESS_FOC_TUNER_E2S_V100</ProjectFolderName>
 		<ProjectName
-		en="Sensorless Vector Control of a Permanent Magnet Synchronous Motor - For MCK (Tuning program generation)"
-		jp="永久磁石同期モータのセンサレスベクトル制御 - MCK用 (チューニングプログラム作成)"
+		en="Sensorless Vector Control of a Permanent Magnet Synchronous Motor - For MCK (for tuning program generation)"
+		jp="永久磁石同期モータのセンサレスベクトル制御 - MCK用 (チューニングプログラム作成用)"
 		/>
-		<ProjectName>RX26T sensorless vector control for permanent magnet synchronous motor tuner project</ProjectName>
+		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rev110</ApplicationNoteUrl>
 		<Description
 		en="
 [Description]&#10;
@@ -219,6 +256,11 @@ This project supports tuning program generation. &#10;
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
  -Sensor : Not used&#10;
+&#10;
+[Supported QE function(s)]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
 &#10;
 [Document Number]&#10;
  R01AN6858EJ0110
@@ -240,6 +282,11 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
  -永久磁石同期モータ : R42BLD30L3&#10;
  -センサ : なし&#10;
 &#10;
+[サポートするQE機能]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
+ &#10;
 [ドキュメント番号]&#10;
  R01AN6858JJ0110
 "
@@ -252,7 +299,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 		en="Sensorless Vector Control of a Permanent Magnet Synchronous Motor - For MCK (1-shunt)"
 		jp="永久磁石同期モータのセンサレスベクトル制御 - MCK用 (1シャント)"
 		/>
-		<ProjectName>RX26T sensorless vector control for permanent magnet synchronous motor tuner project</ProjectName>
+		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rev110</ApplicationNoteUrl>
 		<Description
 		en="
 [Description]&#10;
@@ -268,6 +315,11 @@ This project is the sample program that uses Renesas RX26T microcontroller to dr
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
  -Sensor : Not used&#10;
+&#10;
+[Supported QE function(s)]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
 &#10;
 [Document Number]&#10;
  R01AN6858EJ0110
@@ -287,6 +339,11 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
  -永久磁石同期モータ : R42BLD30L3&#10;
  -センサ : なし&#10;
 &#10;
+[サポートするQE機能]&#10;
+ -SW configuration&#10;
+ -Tuner&#10;
+ -Analyzer&#10;
+ &#10;
 [ドキュメント番号]&#10;
  R01AN6858JJ0110
 "
