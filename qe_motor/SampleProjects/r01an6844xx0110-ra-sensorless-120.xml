@@ -2,7 +2,7 @@
 <ZipFile>
 	<Category en="Sensorless feedback" jp="センサレスフィードバック" />
 	<Category en="120-degree conducting control" jp="120 度通電制御" />
-	<ZipDownloadUrl>/document/scd/sensorless-120-degree-conducting-control-permanent-magnet-synchronous-motor-mckmcb-ra-family-sample/r01an6844xx0100-ra-sensorless-120.zip</ZipDownloadUrl>
+	<ZipDownloadUrl>/document/scd/sensorless-120-degree-conducting-control-permanent-magnet-synchronous-motor-mckmcb-ra-family-sample/r01an6844xx0110-ra-sensorless-120.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RA4T1</DeviceName>
 		<ProjectFolderName>RA4T1_MCILV1_SPM_LESS_120_E2S_V100</ProjectFolderName>
@@ -30,7 +30,7 @@ This project the 120-degree conducting control sample program of permanent magne
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
- R01AN6844EJ0100
+ R01AN6844EJ0110
 "
 		jp="
 [概要]&#10;
@@ -51,7 +51,7 @@ RA4T1マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
- R01AN6844JJ0100
+ R01AN6844JJ0110
 "
 		/>
 	</SampleProject>
@@ -82,7 +82,7 @@ This project the 120-degree conducting control sample program of permanent magne
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
- R01AN6844EJ0100
+ R01AN6844EJ0110
 "
 		jp="
 [概要]&#10;
@@ -103,7 +103,7 @@ RA6T2マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
- R01AN6844JJ0100
+ R01AN6844JJ0110
 "
 		/>
 	</SampleProject>
@@ -134,7 +134,7 @@ This project the 120-degree conducting control sample program of permanent magne
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
- R01AN6844EJ0100
+ R01AN6844EJ0110
 "
 		jp="
 [概要]&#10;
@@ -155,7 +155,59 @@ RA6T3マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
- R01AN6844JJ0100
+ R01AN6844JJ0110
+"
+		/>
+	</SampleProject>
+	<SampleProject>
+		<DeviceName>RA8T1</DeviceName>
+		<ProjectFolderName>RA8T1_MCILV1_SPM_LESS_120_E2S_V100</ProjectFolderName>
+		<ProjectName 
+		en="Sensorless 120-degree Conducting Control of Permanent Magnet Synchronous Motor" 
+		jp="永久磁石同期モータのセンサレス120度制御" />
+		<ApplicationNoteUrl>/document/apn/sensorless-120-degree-conducting-control-permanent-magnet-synchronous-motor-mckmcb-ra-family/</ApplicationNoteUrl>
+		<Description 
+		en="
+[Description]&#10;
+This project the 120-degree conducting control sample program of permanent magnetic synchronous motor (PMSM) using the RA8T1 microcontroller.&#10;
+&#10;
+[Features, Target System]&#10;
+ -Sensorless feedback&#10;
+ -120-degree conducting control&#10;
+&#10;
+[Hardware Setup]&#10;
+ -CPU board : RA8T1(R7FA8T1AHECBD) CPU board (RTK0EMA5K0C00000BJ)&#10;
+ -Inverter board : MCI-LV-1&#10;
+ -Communication board : MC-COM&#10;
+ -Motor : R42BLD30L3&#10;
+&#10;
+[Supported QE function(s)]&#10;
+ -SW configuration&#10;
+ -Analyzer&#10;
+&#10;
+[Document Number]&#10;
+ R01AN6844EJ0110
+"
+		jp="
+[概要]&#10;
+RA8T1マイクロコントローラ(MCU)を使用し、永久磁石同期モータを120度通電制御で駆動するサンプルプログラムです。&#10;
+&#10;
+[機能、対象システム]&#10;
+ -センサレスフィードバック&#10;
+ -120 度通電制御&#10;
+&#10;
+[対象ハードウェア構成]&#10;
+ -CPUボード : RA8T1(R7FA8T1AHECBD) CPUボード (RTK0EMA5K0C00000BJ)&#10;
+ -インバータボード : MCI-LV-1&#10;
+ -通信ボード : MC-COM&#10;
+ -永久磁石同期モーター : R42BLD30L3&#10;
+&#10;
+[サポートするQE機能]&#10;
+ -SW configuration&#10;
+ -Analyzer&#10;
+&#10;
+[ドキュメント番号]&#10;
+ R01AN6844JJ0110
 "
 		/>
 	</SampleProject>

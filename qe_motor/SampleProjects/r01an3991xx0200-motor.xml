@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZipFile>
-	<Category en="Sensorless feedback" jp="センサーレスフィードバック" />
+	<Category en="Sensorless feedback" jp="センサレスフィードバック" />
 	<Category en="Vector control" jp="ベクトル制御" />
 	<ZipDownloadUrl>/document/scd/rl78g1f-sensorless-vector-control-permanent-magnetic-synchronous-motor-sample-code/r01an3991xx0200-motor.zip</ZipDownloadUrl>
 	<SampleProject>
@@ -33,7 +33,7 @@ This project is the sample programs for driving a permanent magnet synchronous m
 jp="
 RL78/G1Fマイクロコントローラを使用し、永久磁石同期モータをセンサレスベクトル方式で駆動するサンプルプログラムです。&#10;
 [機能、対象システム]&#10;
- -センサーレスフィードバック&#10;
+ -センサレスフィードバック&#10;
  -ベクトル制御&#10;
 &#10;
 [対象ハードウェア構成]&#10;

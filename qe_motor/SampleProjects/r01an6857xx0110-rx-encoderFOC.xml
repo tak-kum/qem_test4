@@ -74,7 +74,7 @@ RX26Tマイクロコントローラを使用し、エンコーダ付き永久磁
 		<Description
 		en="
 [Description]&#10;
-This project is the sample program that uses Renesas RX26T microcontroller to drive a permanent magnet synchronous motor with an encoder under vector control.
+This project is the sample program that uses Renesas RX26T microcontroller to drive a permanent magnet synchronous motor with an encoder under vector control.&#10;
 This project supports tuning program generation.&#10;
 &#10;
 [Features, Target System]&#10;
@@ -91,14 +91,14 @@ This project supports tuning program generation.&#10;
  -Sensor : AMT102-V&#10;
 &#10;
 [Supported QE function(s)]&#10;
- -&#10;
+ N/A&#10;
 &#10;
 [Document Number]&#10;
  R01AN6857EJ0110
 "
 		jp="
 [概要]&#10;
-RX26Tマイクロコントローラを使用し、エンコーダ付き永久磁石同期モータをベクトル制御で駆動するソフトウェアサンプルプログラムです。
+RX26Tマイクロコントローラを使用し、エンコーダ付き永久磁石同期モータをベクトル制御で駆動するソフトウェアサンプルプログラムです。&#10;
 本プロジェクトはチューニングプログラムの作成に対応しています。&#10;
 &#10;
 [機能、対象システム]&#10;
@@ -115,7 +115,7 @@ RX26Tマイクロコントローラを使用し、エンコーダ付き永久磁
  -センサ : AMT102-V&#10;
 &#10;
 [サポートするQE機能]&#10;
- -&#10;
+ N/A&#10;
 &#10;
 [ドキュメント番号]&#10;
  R01AN6857JJ0110
@@ -192,7 +192,7 @@ RX26Tマイクロコントローラを使用し、エンコーダ付き永久磁
 		<Description 
 		en="
 [Description]&#10;
-This project is the sample program that uses Renesas RX26T microcontroller to drive a permanent magnet synchronous motor with an encoder under vector control.
+This project is the sample program that uses Renesas RX26T microcontroller to drive a permanent magnet synchronous motor with an encoder under vector control.&#10;
 This project supports tuning program generation.&#10;
 &#10;
 [Features, Target System]&#10;
@@ -218,7 +218,7 @@ This project supports tuning program generation.&#10;
 "
 		jp="
 [概要]&#10;
-RX26Tマイクロコントローラを使用し、エンコーダ付き永久磁石同期モータをベクトル制御で駆動するソフトウェアサンプルプログラムです。
+RX26Tマイクロコントローラを使用し、エンコーダ付き永久磁石同期モータをベクトル制御で駆動するソフトウェアサンプルプログラムです。&#10;
 本プロジェクトはチューニングプログラムの作成に対応しています。&#10;
 &#10;
 [機能、対象システム]&#10;
