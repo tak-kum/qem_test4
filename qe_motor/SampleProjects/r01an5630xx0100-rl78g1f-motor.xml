@@ -26,6 +26,9 @@ This project is the sample programs for RL78/G1F microcontroller to drive a perm
  -Communication board : RTK0EMX6B0Z00000BJ or In Circuit Scope plus&#10;
  -Motor : TF037C-2000-F&#10;
 &#10;
+[Supported QE function(s)]&#10;
+ -Analyzer&#10;
+&#10;
 [Document Number]&#10;
  R01AN5630EJ0100&#10;
 "
@@ -42,6 +45,9 @@ RL78/G1Fマイクロコントローラを使用し、永久磁石同期モータ
  -インバータボード : RL78/G1F Motor Driver Board GB01&#10;
  -通信ボード : RTK0EMX6B0Z00000BJ または In Circuit Scope plus&#10;
  -モータ : TF037C-2000-F&#10;
+&#10;
+[サポートするQE機能]&#10;
+ -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
  R01AN5630JJ0100&#10;
