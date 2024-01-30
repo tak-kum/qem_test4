@@ -62,8 +62,8 @@ RA4T1マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
 		<ProjectFolderName>RA4T1_MCILV1_SPM_LESS_FOC_TUNER_E2S_V100</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor" 
-		jp="永久磁石同期モータのセンサレスベクトル制御" />
+		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor (for tuning program generation)" 
+		jp="永久磁石同期モータのセンサレスベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="
@@ -175,8 +175,8 @@ RA6T2マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
 		<ProjectFolderName>RA6T2_MCILV1_SPM_LESS_FOC_TUNER_E2S_V110</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor" 
-		jp="永久磁石同期モータのセンサレスベクトル制御" />
+		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor (for tuning program generation)" 
+		jp="永久磁石同期モータのセンサレスベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="
@@ -288,8 +288,8 @@ RA6T3マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
 		<ProjectFolderName>RA6T3_MCILV1_SPM_LESS_FOC_TUNER_E2S_V100</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor" 
-		jp="永久磁石同期モータのセンサレスベクトル制御" />
+		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor (for tuning program generation)" 
+		jp="永久磁石同期モータのセンサレスベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="
@@ -401,8 +401,8 @@ RA8T1マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
 		<ProjectFolderName>RA8T1_MCILV1_SPM_LESS_FOC_TUNER_E2S_V100</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor" 
-		jp="永久磁石同期モータのセンサレスベクトル制御" />
+		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor (for tuning program generation)" 
+		jp="永久磁石同期モータのセンサレスベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/sensorless-vector-control-permanent-magnet-synchronous-motor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="

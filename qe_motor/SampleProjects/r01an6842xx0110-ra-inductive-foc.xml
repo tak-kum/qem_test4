@@ -62,8 +62,8 @@ RA4T1マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 		<ProjectFolderName>RA4T1_MCILV1_SPM_IS_FOC_TUNER_E2S_V100</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor" 
-		jp="永久磁石同期モータの誘導センサベクトル制御" />
+		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor (for tuning program generation)" 
+		jp="永久磁石同期モータの誘導センサベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/vector-control-permanent-magnet-synchronous-motor-inductive-sensor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="
@@ -175,8 +175,8 @@ RA6T2マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 		<ProjectFolderName>RA6T2_MCILV1_SPM_IS_FOC_TUNER_E2S_V110</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor" 
-		jp="永久磁石同期モータの誘導センサベクトル制御" />
+		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor (for tuning program generation)" 
+		jp="永久磁石同期モータの誘導センサベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/vector-control-permanent-magnet-synchronous-motor-inductive-sensor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="
@@ -288,8 +288,8 @@ RA6T3マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 		<ProjectFolderName>RA6T3_MCILV1_SPM_IS_FOC_TUNER_E2S_V100</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor" 
-		jp="永久磁石同期モータの誘導センサベクトル制御" />
+		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor (for tuning program generation)" 
+		jp="永久磁石同期モータの誘導センサベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/vector-control-permanent-magnet-synchronous-motor-inductive-sensor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="
@@ -401,8 +401,8 @@ RA8T1マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 		<ProjectFolderName>RA8T1_MCILV1_SPM_IS_FOC_TUNER_E2S_V100</ProjectFolderName>
 		<Category en="Tuning program generation" jp="チューニングプログラム作成" />
 		<ProjectName 
-		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor" 
-		jp="永久磁石同期モータの誘導センサベクトル制御" />
+		en="Vector Control for Permanent Magnet Synchronous Motor with Inductive Sensor (for tuning program generation)" 
+		jp="永久磁石同期モータの誘導センサベクトル制御 (チューニングプログラム作成用)" />
 		<ApplicationNoteUrl>/document/apn/vector-control-permanent-magnet-synchronous-motor-inductive-sensor-mckmcb-ra-family/</ApplicationNoteUrl>
 		<Description 
 		en="
