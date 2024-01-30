@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="https://renesas.github.io/qe-tools/qe_motor/BoardHardwareInfo/style.css" type="text/css">
+  <meta name="title" content="Kit information">
+  <title>Kit information</title>
+</head>
+
+<body>
+
+  <h3>
+    <p>Trial series “T1003” 200W 300VA Inverter Unit</p>
+  </h3>
+
+  <table style="border:none;" cellpadding="5">
+    <tr>
+      <td>
+        <p>
+          <img src="https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/BoardPictures/T1003-RL78G1F.png"
+            style="width:6cm" />
+        </p>
+      </td>
+      <td style="border:none;">
+        <p style="font-size:100%;">
+          Trial series “T1003” 200W 300VA Inverter Unitの詳細については株式会社デスクトップラボ (<a href="http://desktoplab.co.jp/"target="_blank">http://desktoplab.co.jp/</a>) より最新の情報を入手してください。
+        </p>
+      </td>
+    </tr>
+  </table>
+  <br>
+
+  <h6>注意事項</h6>
+  <p style="font-size:100%;">
+  <ul>
+    高電圧環境での作業は危険を伴うため、各開発環境のユーザーズマニュアルをよくお読みのうえ、安全に配慮してご使用ください。
+  </ul>
+  </p>
+
+  <h4>ハードウェア構成</h4>
+  <p style="font-size:100%;">
+  <ul>
+    <br>
+    本ボードに対応したサンプルプログラムに必要なハードウェア構成は以下の通りです。
+    <br>
+    <table class="hwsetup">
+      <thead>
+        <tr class="setuphead">
+          <th class="header-space"></th>
+          <th>永久磁石同期モータの<br>センサレスベクトル制御</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="setuphead">CPUカード</td>
+          <td>
+            <p>RL78/G1F CPUカード (*1)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="setuphead">インバータボード</td>
+          <td>
+            <p>Trial series “T1003” 200W 300VA<br>Inverter Unit (P05701-C0-025)(*2)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="setuphead">通信ボード</td>
+          <td>
+            <p>W2002 (ICS++ (In Circuit Scope plus))(*2)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="setuphead">モータ</td>
+          <td>
+            <p>Oriental Motor<br>BXM6200-A (*3)</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>*1: RL78/G1F CPU カードは、以下の二種類を使用可能です。
+      <ul>
+        <ul>
+        <li>RTK0EML240C03000BJ : ルネサスエレクトロニクス株式会社製</li>
+        <li>T5103 : 株式会社デスクトップラボ (<a href="http://desktoplab.co.jp/"target="_blank">http://desktoplab.co.jp/</a>)社製</p></li>
+        </ul>
+      </ul>
+    <p>*2: Trial series “T1003” 200W 300VA Inverter Unit、並びに通信ボード W2002 (ICS++ (In Circuit Scope plus))は、
+      株式会社デスクトップラボ社
+      (<a href="http://desktoplab.co.jp/"target="_blank">http://desktoplab.co.jp/</a>)
+      の製品です。</p>
+    <p>*3: BXM6200-Aは、オリエンタルモータ株式会社
+      (<a href="https://www.orientalmotor.co.jp/" target="_blank">https://www.orientalmotor.co.jp/</a>)
+      の製品です。
+    </p>
+    <br>
+  </ul>
+  </p>
+
+  <h4>製品仕様</h4>
+  <p style="font-size:100%;">
+  <ul>
+    <h5>インバータ仕様</h5>
+    <ul>
+      <ul>
+        <li>動作入力電圧 : AC100 [Vrms] (入力範囲AC85 [Vrms]～AC265 [Vrms]) : DC141 [V]注</li>
+        <li>定格出力電流 : AC1 [Arms]</li>
+        <li>最大入力電力 : 100 [W] (AC100[Vrms]入力時)</li>
+        <li>駆動対象モータ : 3相永久磁石同期モータ</li>
+        <li>電流検出方式 : 3相電流検出（DCリンクシャント抵抗を用いた電流検出に改造可能）</li>
+        <li>シャントレジスタ : 100 [mΩ]</li>
+        <li>DCバス電圧検出 : 分圧回路による検出</li>
+        <li>三相出力電圧検出 : 分圧回路による検出</li>
+        <li>PWM論理 : 上下アーム共に正論理</li>
+        <li>過電流検出 : 過電流検出回路による検出</li>
+        <li>デッドタイム : 1.5 [μs] 以上</li>
+        <li>使用温度範囲 : 0 [℃]～35 [℃]</li>
+        <li>使用湿度範囲 : 90 [%] 以下（結露しないこと）</li>
+        <li>放熱 : DCファンによる強制空冷(モータを駆動する際は必ずファンを駆動させること。)</li>
+      </ul>
+      注. 制御評価時はDC入力を推奨。電源装置での過電流制限をかけ安全に配慮してご使用ください。AC入力時はVdcの変動を考慮する必要があります。
+    </ul>
+  </ul>
+  </p>
+
+  <h4>関連情報</h4>
+  <ul>
+    <h5>マイクロコンピュータ</h5>
+    <ul><a
+        href="https://www.renesas.com/jp/ja/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/rl78g1f-multifunctional-microcontrollers-enhanced-functionality-sensorless-bldc-motor-control"
+        target="_blank">RL78/G1F センサレスBLDCモータ制御にも適した、機能強化の多機能マイクロコントローラ</a></ul>
+    <h5>開発ツール</h5>
+    <ul><a href="https://www.renesas.com/jp/ja/software-tool/renesas-motor-workbench" target="_blank">Renesas Motor
+        Workbench</a></ul>
+    <h5>ソリューション</h5>
+    <ul><a
+        href="https://www.renesas.com/jp/ja/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/rl78-motor-control-solutions"
+        target="_blank">RL78 モータ制御ソリューション</a></ul>
+    <ul><a
+        href="https://www.renesas.com/jp/ja/application/key-technology/motor-control-robotics/motor-control-solutions"
+        target="_blank">ルネサス モータ・インバータ制御ソリューション</a></ul>
+  </ul>
+
+  <h4>ドキュメント</h4>
+  <ul>
+    <h5>マイクロコンピュータ</h5>
+    <ul><a href="https://www.renesas.com/jp/ja/document/dst/rl78g1f-data-sheet-rev120" target="_blank">RL78/G1F Data
+        Sheet Rev.1.20</a></ul>
+    <ul><a href="https://www.renesas.com/jp/ja/document/mah/rl78g1f-users-manual-hardware-rev120"
+        target="_blank">RL78/G1F ユーザーズマニュアル ハードウェア編 Rev.1.20</a></ul>
+    <h5>開発ツール</h5>
+    <ul><a
+        href="https://www.renesas.com/jp/ja/document/qsg/motor-control-development-support-tool-renesas-motor-workbench-31-quick-start-guide"
+        target="_blank">モータ制御開発支援ツール Renesas Motor Workbench 3.1 クイックスタートガイド</a></ul>
+    <ul><a
+        href="https://www.renesas.com/jp/ja/document/mat/motor-control-development-support-tool-renesas-motor-workbench-31-users-manual"
+        target="_blank">モータ制御開発支援ツール Renesas Motor Workbench 3.1 ユーザーズマニュアル</a></ul>
+    <h5>ソリューション</h5>
+    <ul><a href="https://www.renesas.com/jp/ja/document/bro/motor-solution-brochure" target="_blank">ルネサス
+        モータソリューションカタログ</a></ul>
+  </ul>
+  <br>
+  <hr>
+  <br>
+</body>
+
+</html>
