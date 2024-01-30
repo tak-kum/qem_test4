@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="https://renesas.github.io/qe-tools/qe_motor/BoardHardwareInfo/style.css"
+        type="text/css">
+    <meta name="title" content="Kit information">
+    <title>Kit information</title>
+</head>
+
+<body>
+
+    <h3>
+        <p>Trial series “T1003” 200W 300VA Inverter Unit</p>
+    </h3>
+
+    <table style="border:none;" cellpadding="5">
+        <tr>
+            <td>
+                <p>
+                    <img src="https://raw.githubusercontent.com/renesas/qe-tools/main/qe_motor/BoardPictures/T1003-RL78G1F.png"
+                        style="width:6cm" />
+                </p>
+            </td>
+            <td style="border:none;">
+                <p style="font-size:100%;">
+                    For details on the Trial series “T1003” 200W 300VA Inverter Unit, please obtain the latest information from Desktop Lab Co., Ltd. (<a href="http://desktoplab.co.jp/"target="_blank">http://desktoplab.co.jp/</a>).
+                </p>
+                <br>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <h6>Note</h6>
+    <p style="font-size:100%;">
+    <ul>
+        n particular, handling a high-voltage environment is extremely dangerous. Please read the user's manual of each development environment carefully and use it safely. 
+        Renesas cannot be held responsible for any accidents or damages that may occur in the development environment listed in this application note.
+    </ul>
+    </p>
+
+    <h4>Hardware Setup</h4>
+    <p style="font-size:100%;">
+    <ul>
+      <br>
+      Required hardware setup for sample programs for this board is as follows.
+      <br>
+      <table class="hwsetup">
+        <thead>
+          <tr class="setuphead">
+            <th class="header-space"></th>
+            <th>Sensorless vector control for <br>
+              permanent magnetic synchronous motor</th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td class="setuphead">CPU Card</td>
+              <td>
+                <p>RL78/G1F CPU Card (*1)</p>
+              </td>
+            </tr>
+          <tr>
+            <td class="setuphead">Inverter board</td>
+            <td>
+              <p>Trial series “T1003” 200W 300VA<br>Inverter Unit (P05701-C0-025)(*2)</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="setuphead">Communication <br>board</td>
+            <td>
+              <p>W2002 (ICS++ (In Circuit Scope plus))(*2)</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="setuphead">Motor</td>
+            <td>
+              <p>Oriental Motor<br>BXM6200-A (*3)</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p>*1: Two kinds of RL78/G1F CPU Card can be used.
+        <ul>
+          <ul>
+          <li>RTK0EML240C03000BJ: Renesas Electronics</li>
+          <li>T5103: Desk Top Laboratories Inc. (<a href="http://desktoplab.co.jp/"target="_blank">http://desktoplab.co.jp/</a>)</p></li>
+          </ul>
+        </ul>
+      <p>*2: Trial series “T1003” 200W 300VA Inverter Unit and communication board W2002 (ICS++ (In Circuit Scope plus)) are product of Desk Top Laboratories Inc.
+        (<a href="http://desktoplab.co.jp/"target="_blank">http://desktoplab.co.jp/</a>)</p>
+      <p>*3: BXM6200-A is a product of ORIENTAL MOTOR Co., Ltd.
+        (<a href="https://www.orientalmotor.co.jp/" target="_blank">https://www.orientalmotor.co.jp/</a>)
+      </p>
+      <br>
+    </ul>
+    </p>
+  
+    <h4>Product Specification</h4>
+    <p style="font-size:100%;">
+    <ul>
+        <h5>Specifications of Inverter Unit</h5>
+        <ul>
+            <ul>
+                <li>Operating input voltage : AC100 [Vrms] (Input range AC85 [Vrms] ～AC265 [Vrms]) : DC141[V](Note1)</li>
+                <li>Rated output current : AC1 [Arms]</li>
+                <li>Maximum input power : 100 [W] (at AC100 [Vrms] input)</li>
+                <li>Motor to be driven : 3-phase permanent magnet synchronous motor</li>
+                <li>Current detection method : 3-phase current detection (Can be changed current detection using DC link shunt resistor)</li>
+                <li>Shunt register : 100 [mΩ]</li>
+                <li>DC bus voltage detection : Detection by voltage divider</li>
+                <li>Three-phase output voltage detection : Detection by voltage divider</li>
+                <li>PWM logic : Positive logic in both upper and lower arms</li>
+                <li>Overcurrent detection : Implemented by detection circuit</li>
+                <li>Dead time : 1.5 [μs] or more</li>
+                <li>Operation temperature : 0 [℃]～35 [℃]</li>
+                <li>Operation humidity : Below 90 [%] (No dew condensation)</li>
+                <li>Heat dissipation : Force air cooling (Be sure to drive the fan when driving the motor.)</li>
+                <br>
+            </ul>
+            Note 1. DC input is recommended for control evaluation. Please use it in consideration of safety by limiting the current in the power supply. It is necessary to consider the fluctuation of Vdc at the time of AC input.
+        </ul>
+    </ul>
+    </p>
+
+    <h4>References</h4>
+    <ul>
+        <h5>Microcontrollers</h5>
+        <ul><a href="https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/rl78g1f-multifunctional-microcontrollers-enhanced-functionality-sensorless-bldc-motor-control"
+                target="_blank">RL78/G1F Multifunctional Microcontrollers with Enhanced Functionality for Sensorless
+                BLDC Motor Control</a></ul>
+        <h5>Development Tools</h5>
+        <ul><a href="https://www.renesas.com/us/en/software-tool/renesas-motor-workbench" target="_blank">Renesas Motor
+                Workbench</a></ul>
+        <h5>Solutions</h5>
+        <ul><a href="https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/rl78-motor-control-solutions"
+                target="_blank">RL78 Motor Control Solutions</a></ul>
+        <ul><a href="https://www.renesas.com/us/en/application/key-technology/motor-control-robotics/motor-control-solutions"
+                target="_blank">Renesas Motor and Inverter Control Solutions</a></ul>
+    </ul>
+
+    <h4>Documentation</h4>
+    <ul>
+        <h5>Microcontrollers</h5>
+        <ul><a href="https://www.renesas.com/us/en/document/dst/rl78g1f-data-sheet-rev120" target="_blank">RL78/G1F Data
+                Sheet Rev.1.20</a></ul>
+        <ul><a href="https://www.renesas.com/us/en/document/mah/rl78g1f-users-manual-hardware-rev120"
+                target="_blank">RL78/G1F User's Manual: Hardware Rev.1.20</a></ul>
+        <h5>Development Tools</h5>
+        <ul><a href="https://www.renesas.com/us/en/document/qsg/motor-control-development-support-tool-renesas-motor-workbench-31-quick-start-guide"
+                target="_blank">Motor Control Development Support Tool Renesas Motor Workbench 3.1 Quick Start Guide</a>
+        </ul>
+        <ul><a href="https://www.renesas.com/us/en/document/mat/motor-control-development-support-tool-renesas-motor-workbench-31-users-manual"
+                target="_blank">Motor Control Development Support Tool Renesas Motor Workbench 3.1 User's Manual</a>
+        </ul>
+        <h5>Solutions</h5>
+        <ul><a href="https://www.renesas.com/us/en/document/bro/motor-solution-brochure" target="_blank">Renesas Motor
+                Solutions Brochure</a></ul>
+    </ul>
+    <br>
+    <hr>
+    <br>
+</body>
+
+</html>
