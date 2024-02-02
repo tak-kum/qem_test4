@@ -28,6 +28,7 @@ This project is the vector control software that drives permanent magnetic synch
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -50,6 +51,7 @@ RA4T1マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
@@ -85,6 +87,7 @@ This project supports tuning program generation.&#10;
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -109,6 +112,7 @@ RA4T1マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
@@ -141,6 +145,7 @@ This project is the vector control software that drives permanent magnetic synch
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -163,6 +168,7 @@ RA6T2マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
@@ -198,6 +204,7 @@ This project supports tuning program generation.&#10;
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -222,6 +229,7 @@ RA6T2マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
@@ -254,6 +262,7 @@ This project is the vector control software that drives permanent magnetic synch
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -276,6 +285,7 @@ RA6T3マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
@@ -311,6 +321,7 @@ This project supports tuning program generation.&#10;
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -335,6 +346,7 @@ RA6T3マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
@@ -367,6 +379,7 @@ This project is the vector control software that drives permanent magnetic synch
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -389,6 +402,7 @@ RA8T1マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
@@ -424,6 +438,7 @@ This project supports tuning program generation.&#10;
 &#10;
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [Document Number]&#10;
@@ -448,6 +463,7 @@ RA8T1マイクロコントローラ(MCU)を使用し、誘導センサ付き永�
 &#10;
 [サポートするQE機能]&#10;
  -SW configuration&#10;
+ -Tuner&#10;
  -Analyzer&#10;
 &#10;
 [ドキュメント番号]&#10;
