@@ -33,7 +33,7 @@ This project is the sensorless vector control software that drives a permanent m
  -Analyzer&#10;
  *Note : The tuning program for this sample project is not provided. However, the motor parameters can be measured by Tuning function.
   To measure the motor parameters using Tuning function, please select 2/3-shunt current detection by the jumper connection on the board and use the tuning program for the sensorless vector control (2/ 3 shunts) sample program (RA4T1_MCILV1_SPM_LESS_FOC_TUNER_Vxxx.hex). 
-  Please refer to the application note of this sample project for how to change the board setting.
+  Please refer to the application note of this sample project for how to change the board setting.&#10;
 &#10;
 [Document Number]&#10;
  R01AN6840EJ0110
@@ -59,7 +59,7 @@ RA4T1マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
  -Analyzer&#10;
  *注意 : 本サンプルプログラムに対応したチューニングプログラムは提供されていませんが、チューニング機能を使用してモータパラメータを測定することは可能です。
   チューニング機能を使用してモータパラメータを測定する場合は、ボードのジャンパ接続で2/3シャント電流検出を選択し、センサレスベクトル制御(2/3シャント)サンプルプログラム用チューニングプログラム(RA4T1_MCILV1_SPM_LESS_FOC_TUNER_Vxxx.hex)を使用してください。
-  ボード設定の変更方法についてはアプリケーションノートを参照してください。
+  ボード設定の変更方法についてはアプリケーションノートを参照してください。&#10;
 &#10;
 [ドキュメント番号]&#10;
  R01AN6840JJ0110
@@ -95,7 +95,7 @@ This project is the sensorless vector control software that drives a permanent m
  -Analyzer&#10;
  *Note : The tuning program for this sample project is not provided. However, the motor parameters can be measured by Tuning function.
   To measure the motor parameters using Tuning function, please select 2/3-shunt current detection by the jumper connection on the board and use the tuning program for the sensorless vector control (2/ 3 shunts) sample program (RA6T2_MCILV1_SPM_LESS_FOC_TUNER_E2S_Vxxx.hex). 
-  Please refer to the application note of this sample project for how to change the board setting.
+  Please refer to the application note of this sample project for how to change the board setting.&#10;
 &#10;
 [Document Number]&#10;
  R01AN6840EJ0110
@@ -121,7 +121,7 @@ RA6T2マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
  -Analyzer&#10;
  *注意 : 本サンプルプログラムに対応したチューニングプログラムは提供されていませんが、チューニング機能を使用してモータパラメータを測定することは可能です。
   チューニング機能を使用してモータパラメータを測定する場合は、ボードのジャンパ接続で2/3シャント電流検出を選択し、センサレスベクトル制御(2/3シャント)サンプルプログラム用チューニングプログラム(RA6T2_MCILV1_SPM_LESS_FOC_TUNER_E2S_Vxxx.hex)を使用してください。
-  ボード設定の変更方法についてはアプリケーションノートを参照してください。
+  ボード設定の変更方法についてはアプリケーションノートを参照してください。&#10;
 &#10;
 [ドキュメント番号]&#10;
  R01AN6840JJ0110
@@ -157,7 +157,7 @@ This project is the sensorless vector control software that drives a permanent m
  -Analyzer&#10;
  *Note : The tuning program for this sample project is not provided. However, the motor parameters can be measured by Tuning function.
   To measure the motor parameters using Tuning function, please select 2/3-shunt current detection by the jumper connection on the board and use the tuning program for the sensorless vector control (2/ 3 shunts) sample program (RA6T3_MCILV1_SPM_LESS_FOC_TUNER_Vxxx.hex). 
-  Please refer to the application note of this sample project for how to change the board setting.
+  Please refer to the application note of this sample project for how to change the board setting.&#10;
 &#10;
 [Document Number]&#10;
  R01AN6840EJ0110
@@ -183,7 +183,7 @@ RA6T3マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
  -Analyzer&#10;
  *注意 : 本サンプルプログラムに対応したチューニングプログラムは提供されていませんが、チューニング機能を使用してモータパラメータを測定することは可能です。
   チューニング機能を使用してモータパラメータを測定する場合は、ボードのジャンパ接続で2/3シャント電流検出を選択し、センサレスベクトル制御(2/3シャント)サンプルプログラム用チューニングプログラム(RA6T3_MCILV1_SPM_LESS_FOC_TUNER_Vxxx.hex)を使用してください。
-  ボード設定の変更方法についてはアプリケーションノートを参照してください。
+  ボード設定の変更方法についてはアプリケーションノートを参照してください。&#10;
 &#10;
 [ドキュメント番号]&#10;
  R01AN6840JJ0110
@@ -219,7 +219,7 @@ This project is the sensorless vector control software that drives a permanent m
  -Analyzer&#10;
  *Note : The tuning program for this sample project is not provided. However, the motor parameters can be measured by Tuning function.
   To measure the motor parameters using Tuning function, please select 2/3-shunt current detection by the jumper connection on the board and use the tuning program for the sensorless vector control (2/ 3 shunts) sample program (RA8T1_MCILV1_SPM_LESS_FOC_TUNER_Vxxx.hex). 
-  Please refer to the application note of this sample project for how to change the board setting.
+  Please refer to the application note of this sample project for how to change the board setting.&#10;
 &#10;
 [Document Number]&#10;
  R01AN6840EJ0110
@@ -245,7 +245,7 @@ RA8T1マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
  -Analyzer&#10;
  *注意 : 本サンプルプログラムに対応したチューニングプログラムは提供されていませんが、チューニング機能を使用してモータパラメータを測定することは可能です。
   チューニング機能を使用してモータパラメータを測定する場合は、ボードのジャンパ接続で2/3シャント電流検出を選択し、センサレスベクトル制御(2/3シャント)サンプルプログラム用チューニングプログラム(RA8T1_MCILV1_SPM_LESS_FOC_TUNER_Vxxx.hex)を使用してください。
-  ボード設定の変更方法についてはアプリケーションノートを参照してください。
+  ボード設定の変更方法についてはアプリケーションノートを参照してください。&#10;
 &#10;
 [ドキュメント番号]&#10;
  R01AN6840JJ0110
