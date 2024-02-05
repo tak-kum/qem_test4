@@ -30,6 +30,7 @@ The Current detection method is 1-shunt mode that detects DC link current. &#10;
 &#10;
 [Supported QE function(s)]&#10;
  -Analyzer&#10;
+ Note : The tuning function is not supported for this sample project even though the tuning function on the Workflow view of QE for Motor is enable when selecting this project as a target project.&#10;
 &#10;
 [Document Number]&#10;
  R01AN7036EJ0100
@@ -52,6 +53,7 @@ RL78/G24マイクロコントローラを使用した永久磁石同期モータ
 &#10;
 [サポートするQE機能]&#10;
  -Analyzer&#10;
+ 注意 : QE for Motorのワークフロービューでは本プロジェクト選択時にチューニング機能が有効になりますが、本サンプルプログラムはチューニング機能に対応していません。&#10;
 &#10;
 [Document Number]&#10;
  R01AN7036JJ0100
@@ -86,6 +88,7 @@ The Current detection method is 3-shunt mode that detects 3-phase current. &#10;
 &#10;
 [Supported QE function(s)]&#10;
  -Analyzer&#10;
+ Note : The tuning function is not supported for this sample project even though the tuning function on the Workflow view of QE for Motor is enable when selecting this project as a target project.&#10;
 &#10;
 [Document Number]&#10;
  R01AN7036EJ0100
@@ -108,6 +111,7 @@ RL78/G24マイクロコントローラを使用した永久磁石同期モータ
 &#10;
 [サポートするQE機能]&#10;
  -Analyzer&#10;
+ 注意 : QE for Motorのワークフロービューでは本プロジェクト選択時にチューニング機能が有効になりますが、本サンプルプログラムはチューニング機能に対応していません。&#10;
 &#10;
 [Document Number]&#10;
  R01AN7036JJ0100
