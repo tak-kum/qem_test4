@@ -30,6 +30,7 @@ This project is the software of vector control for permanent magnetic synchronou
 [Supported QE function(s)]&#10;
  -SW configuration&#10;
  -Analyzer&#10;
+ Note : The tuning function is not supported for this sample project even though the tuning function on the Workflow view of QE for Motor is enable when selecting this project as a target project.&#10;
 &#10;
 [Document Number]&#10;
  R01AN6979EJ0100
@@ -52,6 +53,7 @@ RA6T2マイクロコントローラを使用し、ホールセンサを用いて
 [サポートするQE機能]&#10;
  -SW configuration&#10;
  -Analyzer&#10;
+ 注意 : QE for Motorのワークフロービューでは本プロジェクト選択時にチューニング機能が有効になりますが、本サンプルプログラムはチューニング機能に対応していません。&#10;
 &#10;
 [ドキュメント番号]&#10;
  R01AN6979JJ0100
