@@ -68,7 +68,7 @@ RL78/G24マイクロコントローラを使用した永久磁石同期モータ
 		<ProjectName 
 		en="RL78/G24 Sensorless vector control for permanent magnetic synchronous motor (3-shunt)" 
 		jp="RL78/G24 永久磁石同期モータのセンサレスベクトル制御 (3シャント)"/>
-		<ApplicationNoteUrl>/document/apn/rl78g1f-sensorless-vector-control-permanent-magnetic-synchronous-motor-rev200</ApplicationNoteUrl>
+		<ApplicationNoteUrl>/document/apn/rl78g24-sensorless-vector-control-permanent-magnetic-synchronous-motor</ApplicationNoteUrl>
 		<Description 
 		en="
 [Description]&#10;
