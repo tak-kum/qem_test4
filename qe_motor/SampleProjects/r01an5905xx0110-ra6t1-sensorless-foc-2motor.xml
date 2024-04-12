@@ -3,9 +3,11 @@
 	<Category en="Sensorless feedback" jp="センサレスフィードバック" />
 	<Category en="Vector control" jp="ベクトル制御" />
 	<ZipDownloadUrl>/document/scd/sensorless-vector-control-dual-permanent-magnetic-synchronous-motor-evaluation-system-bldc-motor-ra/r01an5905xx0110-ra6t1-sensorless-foc-2motor.zip</ZipDownloadUrl>
+	<Date>2023-08-30</Date>
 	<SampleProject>
 		<DeviceName>RA6T1</DeviceName>
 		<ProjectFolderName>RA6T1_ESB_2SPM_LESS_FOC_E2S_V100</ProjectFolderName>
+		<ProjectDescriptionName>RA6T1_2MRSSK_2SPM_LESS_FOC_E2S_RV101_Ver090</ProjectDescriptionName>
 		<ProjectName 
 		en="Sensorless vector control for dual permanent magnetic synchronous motor" 
 		jp="永久磁石同期モータのセンサレスベクトル制御 - 2モータ駆動" />

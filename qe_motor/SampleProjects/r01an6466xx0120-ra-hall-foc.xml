@@ -3,6 +3,7 @@
 	<Category en="Hall sensor feedback" jp="ホールセンサフィードバック" />
 	<Category en="Vector control" jp="ベクトル制御" />
 	<ZipDownloadUrl>/document/scd/vector-control-permanent-magnetic-synchronous-motor-hall-sensors-mckmcb-ra-family/r01an6466xx0120-ra-hall-foc.zip</ZipDownloadUrl>
+	<Date>2024-01-23</Date>
 	<SampleProject>
 		<DeviceName>RA4T1</DeviceName>
 		<ProjectFolderName>RA4T1_MCILV1_SPM_HALL_FOC_E2S_V100</ProjectFolderName>
@@ -117,6 +118,7 @@ RA4T1マイクロコントローラ(MCU)を使用し、永久磁石同期モー�
 	<SampleProject>
 		<DeviceName>RA6T2</DeviceName>
 		<ProjectFolderName>RA6T2_MCILV1_SPM_HALL_FOC_E2S_V110</ProjectFolderName>
+		<ProjectDescriptionName>RA6T2_MCILV1_SPM_HALL_FOC_E2S_V110_Ver090</ProjectDescriptionName>
 		<ProjectName 
 		en="Vector control for permanent magnetic synchronous motor with hall sensors" 
 		jp="永久磁石同期モータのホールセンサベクトル制御" />
