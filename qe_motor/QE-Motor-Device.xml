@@ -6,7 +6,7 @@
 			<DeviceSeriesName>RA2</DeviceSeriesName>
 			<Device>
 				<DeviceName>RA2T1</DeviceName>
-				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test4/main/SampleProjects/r01an7813xx0100-ra2t1-sensorless-foc.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test4/main/qe_motor/SampleProjects/r01an7813xx0100-ra2t1-sensorless-foc.xml</ProjectUrl>
 			</Device>
 		</DeviceSeries>
 		<DeviceSeries>
